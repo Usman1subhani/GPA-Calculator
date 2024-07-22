@@ -6,8 +6,9 @@ Flutter GPA calculator app: Compute your grades effortlessly. 📊
 * Add, edit, and delete courses
 * View your overall GPA and percentage
   
-# Screenshots
-[Insert screenshots of the app here]
+# Screenshots 
+![GPA App Screenshots](https://github.com/user-attachments/assets/84d6bda9-b380-4b5d-8cec-94545c70b22d)
+
 
 # Contributing
 Contributions are welcome! If you'd like to contribute to the app, please fork the repository and submit a pull request.
